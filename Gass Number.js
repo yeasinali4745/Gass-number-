@@ -17,4 +17,3 @@ for (var index = 1; index <=label; index++) {
 document.write("You win total=" + win +"<br/>" +"<br/>");
 
 document.write("You los total=" + los +"<br/>");
-document.getElementById('Y').innerHTML='hi';
